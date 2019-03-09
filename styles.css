@@ -16,7 +16,11 @@ header{
     font-size: 3em;
 }
 .map{
+    position: absolute;
     width:100em;
-    height: 70em;
+    height: 60em;
+}
+.map-div{
+    text-align: center;
 }
 
